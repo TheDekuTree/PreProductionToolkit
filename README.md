@@ -1,5 +1,7 @@
 # PreProductionToolkit_Web
 
+A currently incomplete web app that generates production and shooting schedules for filmmakers. Runs entirely in the browser using Vue and docx.js
+
 ## Project setup
 ```
 npm install
